@@ -91,7 +91,7 @@ algorithm-mar
 | **5일차 (화)** | 레이저 통신 | 골드 III | https://www.acmicpc.net/problem/6087 |
 | **6일차 (수)** | 재활용 캠페인 | 골드 II | https://www.acmicpc.net/problem/22988 |
 | **7일차 (목)** | 오름세 | 골드 II | https://www.acmicpc.net/problem/3745 |
-| **8일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **8일차 (금)** | 여왕벌 | 골드 III | https://www.acmicpc.net/problem/10836 |
 | **스터디** | 묘수풀이: 모독 | 플래티넘 IV | https://www.acmicpc.net/problem/17226 |
 
 ---
