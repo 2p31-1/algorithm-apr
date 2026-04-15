@@ -103,7 +103,7 @@ algorithm-mar
 | **9일차 (월)** | 자두나무 | 골드 IV | https://www.acmicpc.net/problem/2240 |
 | **10일차 (화)** | BFS 스페셜 저지 | 골드 III | https://www.acmicpc.net/problem/16940 |
 | **11일차 (수)** | 싸지방에 간 준하 | 골드 III | https://www.acmicpc.net/problem/12764 |
-| **12일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **12일차 (목)** | 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1 | 골드 III | https://www.acmicpc.net/problem/20440 |
 | **13일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
 
